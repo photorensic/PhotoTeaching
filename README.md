@@ -10,9 +10,15 @@ This repository contains teaching materials designed for education and training 
 
 ## Institution
 
-tbd
+Institute of Forensic Medicine Basel, Switzerland
 
 ## Authors
-tbd
+
+J. Bottoni, MD
+L. Hauenstein, MSc
+T. Rost
+H. Wittig, MD
+E. Scheurer, MD, MSs
+C. Lenz, PhD
 
 Identifiable regions were irreversibly masked prior to upload for ethical reasons.
